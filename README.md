@@ -1,7 +1,7 @@
-### Hi there 🌞 I'm Dorahely 🌞
+# Hi there 🌞 I'm Dorahely 🌞
 
-# WHO AM I? 
-# Recent fullstcak software engineering grad 
+## WHO AM I? 
+- Recent fullstcak software engineering grad 
 <!--
 **DorahelyS/DorahelyS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
