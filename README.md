@@ -1,7 +1,16 @@
-# Hi there, 🌞 I'm Dorahely 🌞
+# Hi there! 🌞 I'm Dorahely 🌞
 
-## WHO AM I? 
-Recent fullstcak software engineering grad 
+### Get to know me ...
+Former Buyer at Levi Strauss & Co. transitioned into Software Engineering. With a proven track record, I effectively managed two multi-million dollar Direct-to-Consumer (DTC) businesses for US/CA. Beyond my software engineering expertise, I have strong data management and analytical skills, complemented by a creative POV honed over 6+ years in the fashion industry.
+
+As I continue expanding my knowledge and refining my new skills, I am looking to solve more complex problems by diving deeper into the technical realm.
+
+
+Outside of my professional career you can catch me surfing, searching for the best bagel, or attempting a recipe from Bon Appétit.
+
+🌞 🏄‍♂️ 🥯 🍅 🌼 
+
+
 <!--
 **DorahelyS/DorahelyS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
