@@ -8,7 +8,7 @@ As I continue expanding my knowledge and refining my new skills, I am looking to
 
 Outside of my professional career you can catch me surfing, searching for the best bagel, or attempting a recipe from Bon Appétit.
 
-🌞 🏄‍♂️ 🥯 🍅 🌼 
+### 🌞 🏄‍♂️ 🥯 🍅 🌼 
 
 
 <!--
